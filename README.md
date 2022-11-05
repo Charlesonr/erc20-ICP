@@ -2,4 +2,4 @@
 
 
 ERC-20 token on Internet Computer with TypeScript language.
-
+Study Case
