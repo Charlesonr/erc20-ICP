@@ -1,3 +1,12 @@
 {
-    
+    "canisters": {
+        "erc20":{   
+            "type": "custom",
+            "build": "npx azle erc20",
+            "root": "src",
+            "ts": "src/index.ts",
+            "candid": "src/index.did",
+            "wasm": "target/wasm32-unknown-unknown/release/erc20.wasm"
+        }
+    }
 }
