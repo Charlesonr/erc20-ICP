@@ -1,12 +1,12 @@
 {
     "canisters": {
-        "erc20":{   
+        "backend": {
             "type": "custom",
-            "build": "npx azle erc20",
+            "build": "npx azle backend",
             "root": "src",
             "ts": "src/index.ts",
             "candid": "src/index.did",
-            "wasm": "target/wasm32-unknown-unknown/release/erc20.wasm"
+            "wasm": "target/wasm32-unknown-unknown/release/backend.wasm.gz"
         }
     }
 }

@@ -21,6 +21,47 @@ let state: State = {
     name: ''
 }
 
+export function initializeSupply(ticker: string, name: string, totalSupply: nat64, originalAddress: string): Update<boolean>{
+    state = {
+        ...state,
+        accounts: {
+            [originalAddress]: {
+                address: originalAddress,
+                balance: totalSupply
+            }
+        },
+        ticker,
+        name,
+        totalSupply
+    };
+    return true;
+}
 
 
+export function transfer(from: string, to: string, amount: nat64): Update<boolean>{
+    if (state.accounts[to] === undefined){
+        state.accounts[to] = {
+            address: to,
+            balance: 0n
+        };
+    }
+    state.accounts[from].balance -= amount;  
+    state.accounts[to].balance += amount;   //take the token 'balance from ' and adding to ' balance to'
+    return true;
+}
 
+export function balance(address: string): Query<nat64>{
+    return state.accounts[address]?.balance ?? 0n;
+}
+
+export function ticker(): Query<string>{
+    return state.ticker;
+}
+
+export function name(): Query<string>{
+    return state.name;
+}
+
+export function totalSupply(): Query<nat64>{
+    return state.totalSupply;
+}
