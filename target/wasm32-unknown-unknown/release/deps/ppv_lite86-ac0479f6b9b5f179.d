@@ -1,0 +1,10 @@
+/mnt/c/Users/charl/OneDrive/Documentos/Coding/Blockchain/workspace-blockchain/token-erc20-ICP/target/azle/../wasm32-unknown-unknown/release/deps/ppv_lite86-ac0479f6b9b5f179.rmeta: /home/charlegr/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/lib.rs /home/charlegr/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/soft.rs /home/charlegr/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/types.rs /home/charlegr/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/generic.rs
+
+/mnt/c/Users/charl/OneDrive/Documentos/Coding/Blockchain/workspace-blockchain/token-erc20-ICP/target/azle/../wasm32-unknown-unknown/release/deps/libppv_lite86-ac0479f6b9b5f179.rlib: /home/charlegr/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/lib.rs /home/charlegr/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/soft.rs /home/charlegr/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/types.rs /home/charlegr/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/generic.rs
+
+/mnt/c/Users/charl/OneDrive/Documentos/Coding/Blockchain/workspace-blockchain/token-erc20-ICP/target/azle/../wasm32-unknown-unknown/release/deps/ppv_lite86-ac0479f6b9b5f179.d: /home/charlegr/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/lib.rs /home/charlegr/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/soft.rs /home/charlegr/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/types.rs /home/charlegr/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/generic.rs
+
+/home/charlegr/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/lib.rs:
+/home/charlegr/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/soft.rs:
+/home/charlegr/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/types.rs:
+/home/charlegr/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/generic.rs:

@@ -1,0 +1,9 @@
+/mnt/c/Users/charl/OneDrive/Documentos/Coding/Blockchain/workspace-blockchain/token-erc20-ICP/target/azle/../release/deps/libazle_js_value_derive-79d5d34614795390.so: src/azle_js_value_derive/src/lib.rs src/azle_js_value_derive/src/derive_azle_into_js_value/derive_azle_into_js_value_enum.rs src/azle_js_value_derive/src/derive_azle_into_js_value/derive_azle_into_js_value_struct.rs src/azle_js_value_derive/src/derive_azle_try_from_js_value/derive_azle_try_from_js_value_enum.rs src/azle_js_value_derive/src/derive_azle_try_from_js_value/derive_azle_try_from_js_value_struct.rs
+
+/mnt/c/Users/charl/OneDrive/Documentos/Coding/Blockchain/workspace-blockchain/token-erc20-ICP/target/azle/../release/deps/azle_js_value_derive-79d5d34614795390.d: src/azle_js_value_derive/src/lib.rs src/azle_js_value_derive/src/derive_azle_into_js_value/derive_azle_into_js_value_enum.rs src/azle_js_value_derive/src/derive_azle_into_js_value/derive_azle_into_js_value_struct.rs src/azle_js_value_derive/src/derive_azle_try_from_js_value/derive_azle_try_from_js_value_enum.rs src/azle_js_value_derive/src/derive_azle_try_from_js_value/derive_azle_try_from_js_value_struct.rs
+
+src/azle_js_value_derive/src/lib.rs:
+src/azle_js_value_derive/src/derive_azle_into_js_value/derive_azle_into_js_value_enum.rs:
+src/azle_js_value_derive/src/derive_azle_into_js_value/derive_azle_into_js_value_struct.rs:
+src/azle_js_value_derive/src/derive_azle_try_from_js_value/derive_azle_try_from_js_value_enum.rs:
+src/azle_js_value_derive/src/derive_azle_try_from_js_value/derive_azle_try_from_js_value_struct.rs:

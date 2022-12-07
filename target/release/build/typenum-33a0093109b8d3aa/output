@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/mnt/c/Users/charl/OneDrive/Documentos/Coding/Blockchain/workspace-blockchain/token-erc20-ICP/target/azle/../release/build/typenum-33a0093109b8d3aa/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/mnt/c/Users/charl/OneDrive/Documentos/Coding/Blockchain/workspace-blockchain/token-erc20-ICP/target/azle/../release/build/typenum-33a0093109b8d3aa/out/op.rs

@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "azle": "^0.7.0",
-    "dfx": "^0.9.7"
+    "dfx": "^0.9.7",
+    "wasm-pack": "^0.10.3"
   }
 }

@@ -1,0 +1,10 @@
+/mnt/c/Users/charl/OneDrive/Documentos/Coding/Blockchain/workspace-blockchain/token-erc20-ICP/target/azle/../wasm32-unknown-unknown/release/deps/fixed_decimal-2690d898d60aeff1.rmeta: /home/charlegr/.cargo/registry/src/github.com-1ecc6299db9ec823/fixed_decimal-0.2.2/src/lib.rs /home/charlegr/.cargo/registry/src/github.com-1ecc6299db9ec823/fixed_decimal-0.2.2/src/decimal.rs /home/charlegr/.cargo/registry/src/github.com-1ecc6299db9ec823/fixed_decimal-0.2.2/src/signum.rs /home/charlegr/.cargo/registry/src/github.com-1ecc6299db9ec823/fixed_decimal-0.2.2/src/uint_iterator.rs
+
+/mnt/c/Users/charl/OneDrive/Documentos/Coding/Blockchain/workspace-blockchain/token-erc20-ICP/target/azle/../wasm32-unknown-unknown/release/deps/libfixed_decimal-2690d898d60aeff1.rlib: /home/charlegr/.cargo/registry/src/github.com-1ecc6299db9ec823/fixed_decimal-0.2.2/src/lib.rs /home/charlegr/.cargo/registry/src/github.com-1ecc6299db9ec823/fixed_decimal-0.2.2/src/decimal.rs /home/charlegr/.cargo/registry/src/github.com-1ecc6299db9ec823/fixed_decimal-0.2.2/src/signum.rs /home/charlegr/.cargo/registry/src/github.com-1ecc6299db9ec823/fixed_decimal-0.2.2/src/uint_iterator.rs
+
+/mnt/c/Users/charl/OneDrive/Documentos/Coding/Blockchain/workspace-blockchain/token-erc20-ICP/target/azle/../wasm32-unknown-unknown/release/deps/fixed_decimal-2690d898d60aeff1.d: /home/charlegr/.cargo/registry/src/github.com-1ecc6299db9ec823/fixed_decimal-0.2.2/src/lib.rs /home/charlegr/.cargo/registry/src/github.com-1ecc6299db9ec823/fixed_decimal-0.2.2/src/decimal.rs /home/charlegr/.cargo/registry/src/github.com-1ecc6299db9ec823/fixed_decimal-0.2.2/src/signum.rs /home/charlegr/.cargo/registry/src/github.com-1ecc6299db9ec823/fixed_decimal-0.2.2/src/uint_iterator.rs
+
+/home/charlegr/.cargo/registry/src/github.com-1ecc6299db9ec823/fixed_decimal-0.2.2/src/lib.rs:
+/home/charlegr/.cargo/registry/src/github.com-1ecc6299db9ec823/fixed_decimal-0.2.2/src/decimal.rs:
+/home/charlegr/.cargo/registry/src/github.com-1ecc6299db9ec823/fixed_decimal-0.2.2/src/signum.rs:
+/home/charlegr/.cargo/registry/src/github.com-1ecc6299db9ec823/fixed_decimal-0.2.2/src/uint_iterator.rs:
